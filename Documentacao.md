@@ -154,6 +154,15 @@ sudo hping3 -S -p 80 --flood --rand-source 192.168.114.88
 
 &nbsp;&nbsp;&nbsp; Isso pode ser resolvido através de técnicas mais elevadas de autenticação, com a utilização de senhas e criptografia, garantindo o bom funcionamento do sistema.
 
+## Tabela de ataques
+&nbsp;&nbsp;&nbsp; Visando a sumarização do trabalho foi desenvolvida a seguinte tabela para analisar a probabilidade dos dois ataques, seus impactos estimados e riscos resultante:
+
+| Falhas       | Probabilidade de ocorrência | Impacto estimado                                                             | Risco resultante                      |
+|--------------|-----------------------------|------------------------------------------------------------------------------|---------------------------------------|
+| Código Bash  | Baixa                       | Indisponibilidade do microcontrolador para receber requisições do tester     | Indisponibilidade do microcontrolador |
+| Autenticação | Moderada a alta             | Perda de controle de acesso, permitindo acesso as saídas do microcontrolador | Perda de acesso                       |
+
+
 ## Extras
 &nbsp;&nbsp;&nbsp; Para melhor entendimento do trabalho o grupo registrou prints do código executado e fotos do sistema de hardware utilizado como mostrado abaixo:
 
