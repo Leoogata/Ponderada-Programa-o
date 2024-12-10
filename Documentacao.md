@@ -156,6 +156,7 @@ sudo hping3 -S -p 80 --flood --rand-source 192.168.114.88
 
 ## Extras
 &nbsp;&nbsp;&nbsp; Para melhor entendimento do trabalho o grupo registrou prints do código executado e fotos do sistema de hardware utilizado como mostrado abaixo:
+
 **Hardware**
 ![Hardware](assets/WhatsApp%20Image%202024-12-10%20at%2015.33.31%20(1).jpeg)
 ![Led amarelo](assets/WhatsApp%20Image%202024-12-10%20at%2015.33.30.jpeg)
