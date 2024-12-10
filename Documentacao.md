@@ -153,3 +153,17 @@ sudo hping3 -S -p 80 --flood --rand-source 192.168.114.88
 &nbsp;&nbsp;&nbsp; Essa falha pode causar diversos problemas, como o envio de dados maliciosos que podem gerar um comprometimento no ESP32, causando o mal funcionamento da aplicação.
 
 &nbsp;&nbsp;&nbsp; Isso pode ser resolvido através de técnicas mais elevadas de autenticação, com a utilização de senhas e criptografia, garantindo o bom funcionamento do sistema.
+
+## Extras
+&nbsp;&nbsp;&nbsp; Para melhor entendimento do trabalho o grupo registrou prints do código executado e fotos do sistema de hardware utilizado como mostrado abaixo:
+**Hardware**
+![Hardware](assets/WhatsApp%20Image%202024-12-10%20at%2015.33.31%20(1).jpeg)
+![Led amarelo](assets/WhatsApp%20Image%202024-12-10%20at%2015.33.30.jpeg)
+![LEd azul](assets/WhatsApp%20Image%202024-12-10%20at%2015.33.31.jpeg)
+![Led azul e amarelo](assets/WhatsApp%20Image%202024-12-10%20at%2015.33.08.jpeg)
+
+**Código compilado**
+![Código parte 1](assets/WhatsApp%20Image%202024-12-10%20at%2015.36.51.jpeg)
+![Código parte 2](assets/WhatsApp%20Image%202024-12-10%20at%2015.36.47.jpeg)
+![Código compilado](assets/WhatsApp%20Image%202024-12-10%20at%2015.36.42.jpeg)
+
